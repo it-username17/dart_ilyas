@@ -52,9 +52,9 @@ class BankCard{
 
   // BankCard.y10(String owner, String account);
 
-  BankCard.vip({required this.owner, this.account})
-  : validityPeriod = 2037;
-  _balance
+  // BankCard.vip({required this.owner, this.account})
+  // : validityPeriod = 2037;
+  // _balance
 
   BankCard(this.owner, this.account, this.validityPeriod);
 
